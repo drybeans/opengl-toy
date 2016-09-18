@@ -1,2 +1,2 @@
-# shader-toy
-shader store
+# opengl-toy
+opengl store
